@@ -16,10 +16,12 @@
 
 # Dependency directories (remove the comment below to include it)
 vendor/
+runtime/
 
 # Go workspace file
 go.work
 go.work.sum
+config/config.yml
 
 # env file
 .env
